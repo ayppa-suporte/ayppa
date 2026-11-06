@@ -1,0 +1,11 @@
+{
+  "source": "/assets/global-map/reference/estate-global.webp",
+  "crop": [
+    329,
+    171,
+    424,
+    229
+  ],
+  "generated": false,
+  "upscaled": false
+}

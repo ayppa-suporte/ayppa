@@ -1,0 +1,80 @@
+[
+  {
+    "id": "construtoras-01",
+    "source": "/assets/crm/vitrine/real/construtoras-01.webp",
+    "page": "https://unsplash.com/photos/construction-crane-above-concrete-building-SmT9grOlHBw",
+    "author": "Kelvin Zyteng",
+    "license": "https://unsplash.com/license",
+    "label": "Prédio em obra com grua",
+    "kind": "photo",
+    "width": 2000,
+    "height": 1333,
+    "sha256": "1e26394b8d067330ed90efe2ccfd58cd55b44b7d66d91bdc810af73f20d0b84a",
+    "usage": "Imagem editorial de categoria; não é empreendimento cadastrado nem associado a loja."
+  },
+  {
+    "id": "industrial-01",
+    "source": "/assets/crm/vitrine/real/industrial-01.webp",
+    "page": "https://unsplash.com/photos/truck-and-trailers-parked-in-front-of-a-warehouse-xkAIwD0hsbg",
+    "author": "Troy Mortier",
+    "license": "https://unsplash.com/license",
+    "label": "Galpão logístico com caminhão",
+    "kind": "photo",
+    "width": 2000,
+    "height": 1333,
+    "sha256": "36341ed965b436aa49eabd0043ccf34abe92574a5148f666c179dc742efa4040",
+    "usage": "Imagem editorial de categoria; não é empreendimento cadastrado nem associado a loja."
+  },
+  {
+    "id": "terrenos-01",
+    "source": "/assets/crm/vitrine/real/terrenos-01.webp",
+    "page": "https://unsplash.com/photos/top-view-photography-of-houses-at-daytime-7lvzopTxjOU",
+    "author": "Tom Rumble",
+    "license": "https://unsplash.com/license",
+    "label": "Bairro residencial em fotografia aérea",
+    "kind": "photo",
+    "width": 2000,
+    "height": 1500,
+    "sha256": "953cc7f87291fb2bba9e4ffb25ad8176f1a6ed72f913c5ece2bceb491f81951c",
+    "usage": "Imagem editorial de categoria; não é empreendimento cadastrado nem associado a loja."
+  },
+  {
+    "id": "terrenos-02",
+    "source": "/assets/crm/vitrine/real/terrenos-02.webp",
+    "page": "https://unsplash.com/photos/an-aerial-view-of-a-neighborhood-with-lots-of-houses-4nuCGapo4Zs",
+    "author": "Michael Tuszynski",
+    "license": "https://unsplash.com/license",
+    "label": "Arruamento residencial em fotografia aérea",
+    "kind": "photo",
+    "width": 2000,
+    "height": 1333,
+    "sha256": "e07ad6de75a2e726527e5ccb131fba8e2ee40e5d609811410f5b60beff6025d2",
+    "usage": "Imagem editorial de categoria; não é empreendimento cadastrado nem associado a loja."
+  },
+  {
+    "id": "industrial-02",
+    "source": "/assets/crm/vitrine/real/industrial-02.webp",
+    "page": "https://unsplash.com/photos/a-truck-is-parked-in-front-of-a-building-DOtT8RWrf4c",
+    "author": "Jakub Pabis",
+    "license": "https://unsplash.com/license",
+    "label": "Galpão industrial com caminhão",
+    "kind": "photo",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "2084f0be0e8e03138e5836937c7c755940ffde648e419b801c70f7a6efaf72f5",
+    "usage": "Imagem editorial de categoria, não empreendimento cadastrado."
+  },
+  {
+    "id": "construtoras-02",
+    "source": "/assets/crm/vitrine/real/construtoras-02.webp",
+    "page": "https://unsplash.com/photos/construction-cranes-work-on-building-projects-E6I8jGSO9b8",
+    "author": "Leongsan",
+    "license": "https://unsplash.com/license",
+    "label": "Prédio em obra e gruas",
+    "kind": "photo",
+    "width": 2400,
+    "height": 1600,
+    "sha256": "f0186ed5afadc5c9e2588e9699389243520c17b1ac78aa77422a626a98baa972",
+    "usage": "Imagem editorial de categoria, não empreendimento cadastrado."
+  }
+]

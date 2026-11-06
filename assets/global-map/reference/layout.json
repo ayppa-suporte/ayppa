@@ -1,0 +1,56 @@
+{
+  "map": {
+    "x": 129,
+    "y": 190,
+    "width": 439,
+    "height": 281
+  },
+  "marketplace": {
+    "x": 583,
+    "y": 190,
+    "width": 438,
+    "height": 281
+  },
+  "comparison": {
+    "x": 1037,
+    "y": 190,
+    "width": 434,
+    "height": 281
+  },
+  "estate-global": {
+    "x": 129,
+    "y": 485,
+    "width": 439,
+    "height": 282
+  },
+  "broker-os": {
+    "x": 583,
+    "y": 485,
+    "width": 438,
+    "height": 282
+  },
+  "studio": {
+    "x": 1037,
+    "y": 485,
+    "width": 434,
+    "height": 282
+  },
+  "collections": {
+    "x": 524,
+    "y": 778,
+    "width": 553,
+    "height": 288
+  },
+  "compare-box": {
+    "x": 129,
+    "y": 841,
+    "width": 376,
+    "height": 173
+  },
+  "agent-box": {
+    "x": 1095,
+    "y": 862,
+    "width": 376,
+    "height": 152
+  }
+}

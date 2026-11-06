@@ -1,0 +1,31 @@
+{
+  "source": "user-upload",
+  "kind": "supplied-illustrative-preview-not-verified-unit-1003-photographs",
+  "retrieved": "2026-10-08",
+  "original_cna_reference": {
+    "source": "https://cnaconstrutora.com.br/selecionados/168",
+    "unit": "1201 (~180m\u00b2), unidade de refer\u00eancia",
+    "kind": "ordinary-photographs-not-panoramas",
+    "retrieved": "2026-10-08",
+    "selection": {
+      "hero": 17,
+      "living": 0,
+      "suite": 9,
+      "gourmet": 8,
+      "balcony": 13,
+      "leisure": 38
+    }
+  },
+  "preview_files": {
+    "sala-frente-mar.jpg": "WhatsAppImage2026-10-08at15.53.21.jpeg",
+    "suite-master.jpg": "WhatsAppImage2026-10-08at15.53.22.jpeg",
+    "gourmet.jpg": "WhatsAppImage2026-10-08at15.53.22(1).jpeg",
+    "piscina-frente-mar.jpg": "WhatsAppImage2026-10-08at15.53.22(2).jpeg"
+  },
+  "official_files_retained": [
+    "living.jpg",
+    "sacada-frente-mar.jpg",
+    "lazer.jpg",
+    "official-reference/"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "source": "WhatsAppImage2026-10-07at20.16.31.jpeg",
+  "source_size": [
+    1599,
+    1066
+  ],
+  "generated": false,
+  "upscaled": false,
+  "assets": {
+    "hero": {
+      "path": "/assets/estate-global/hero.webp",
+      "size": [
+        835,
+        363
+      ],
+      "source_box": [
+        56,
+        181,
+        891,
+        544
+      ]
+    },
+    "living": {
+      "path": "/assets/estate-global/living.webp",
+      "size": [
+        202,
+        163
+      ],
+      "source_box": [
+        56,
+        566,
+        258,
+        729
+      ]
+    },
+    "kitchen": {
+      "path": "/assets/estate-global/kitchen.webp",
+      "size": [
+        193,
+        163
+      ],
+      "source_box": [
+        275,
+        566,
+        468,
+        729
+      ]
+    },
+    "bedroom": {
+      "path": "/assets/estate-global/bedroom.webp",
+      "size": [
+        192,
+        163
+      ],
+      "source_box": [
+        484,
+        566,
+        676,
+        729
+      ]
+    },
+    "pool": {
+      "path": "/assets/estate-global/pool.webp",
+      "size": [
+        196,
+        163
+      ],
+      "source_box": [
+        693,
+        566,
+        889,
+        729
+      ]
+    }
+  }
+}

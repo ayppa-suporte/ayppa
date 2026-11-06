@@ -1,0 +1,11 @@
+{
+  "id": "fg",
+  "name": "FG Empreendimentos",
+  "officialUrl": "https://fgempreendimentos.com.br/",
+  "logoPath": "/assets/crm/stores/fg/logo.svg",
+  "imagePath": "/assets/crm/stores/fg/showcase.jpg",
+  "imageProject": "Iconic Tower",
+  "imageType": "render",
+  "sourceUrl": "https://api.fgempreendimentos.com.br:2341/img/65b49fb4-ec51-427e-bfbd-7075c6629cdc/fachada-iconic-tower-fg-empreendimentos.jpg?fm=jpg&q=80&fit=max",
+  "note": "Identidade confirmada no site oficial: construtora com foco em Balneário Camboriú/SC. Logo e imagem são assets públicos do domínio oficial e API de mídia oficial; imagem classificada como render de fachada do Iconic Tower."
+}

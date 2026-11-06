@@ -1,0 +1,11 @@
+{
+  "id": "cna",
+  "name": "CNA Construtora Itapema",
+  "officialUrl": "https://cnaconstrutora.com.br/",
+  "logoPath": "/assets/crm/stores/cna/logo.svg",
+  "imagePath": "/assets/crm/stores/cna/showcase.png",
+  "imageProject": "Cartier CNA Residence",
+  "imageType": "photo",
+  "sourceUrl": "https://cnaconstrutora.com.br/wp-content/uploads/2023/09/festas_site_1.png",
+  "note": "Site oficial confirma escritório e central do corretor em Itapema/SC. Logo SVG oficial baixado do domínio CNA. Imagem PNG pública do domínio oficial, identificada no HTML da home junto ao contexto “salao-festas-cna-cartier-residence-luxo”; inspeção visual classifica como foto de interior."
+}

@@ -1,0 +1,91 @@
+{
+  "generated": false,
+  "upscaled": false,
+  "assets": {
+    "studio": {
+      "source": "WhatsAppImage2026-10-07at21.18.06.jpeg",
+      "source_size": [
+        1599,
+        1066
+      ],
+      "box": [
+        66,
+        212,
+        948,
+        755
+      ],
+      "size": [
+        882,
+        543
+      ]
+    },
+    "carlos": {
+      "source": "WhatsAppImage2026-10-07at21.18.10.jpeg",
+      "source_size": [
+        1599,
+        1066
+      ],
+      "box": [
+        38,
+        154,
+        785,
+        638
+      ],
+      "size": [
+        747,
+        484
+      ]
+    },
+    "ana": {
+      "source": "WhatsAppImage2026-10-07at21.18.10.jpeg",
+      "source_size": [
+        1599,
+        1066
+      ],
+      "box": [
+        815,
+        154,
+        1556,
+        638
+      ],
+      "size": [
+        741,
+        484
+      ]
+    },
+    "floorplan": {
+      "source": "WhatsAppImage2026-10-07at21.18.10.jpeg",
+      "source_size": [
+        1599,
+        1066
+      ],
+      "box": [
+        277,
+        456,
+        761,
+        623
+      ],
+      "size": [
+        484,
+        167
+      ]
+    },
+    "property": {
+      "source": "WhatsAppImage2026-10-07at21.18.10.jpeg",
+      "source_size": [
+        1599,
+        1066
+      ],
+      "box": [
+        79,
+        854,
+        257,
+        948
+      ],
+      "size": [
+        178,
+        94
+      ]
+    }
+  }
+}

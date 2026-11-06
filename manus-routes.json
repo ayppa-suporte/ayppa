@@ -1,0 +1,460 @@
+{
+  "routes": [
+    {
+      "path": "/portal",
+      "title": "AYPPA° Portal Global"
+    },
+    {
+      "path": "/estate",
+      "title": "AYPPA Estate — Technology Platform"
+    },
+    {
+      "path": "/360",
+      "title": "AYPPA 360° — Technology Platform"
+    },
+    {
+      "path": "/360/global-map",
+      "title": "AYPPA 360° — Global Map"
+    },
+    {
+      "path": "/global-map",
+      "title": "Global Map — alias"
+    },
+    {
+      "path": "/villa-oceana",
+      "title": "AYPPA 360° — Marketplace CNA Cartier Residence — alias"
+    },
+    {
+      "path": "/360/comparison",
+      "title": "AYPPA 360° — Comparison Itapema vs Monaco"
+    },
+    {
+      "path": "/360/estate-global",
+      "title": "AYPPA 360° — Estate Global"
+    },
+    {
+      "path": "/",
+      "title": "Portal Global — entrada"
+    },
+    {
+      "path": "/360/broker-os",
+      "title": "AYPPA 360° — Broker OS Network Map"
+    },
+    {
+      "path": "/marketplace/villa-oceana",
+      "title": "Marketplace CNA Cartier Residence — alias — página de fechamento"
+    },
+    {
+      "path": "/marketplace/cna-cartier-residence",
+      "title": "CNA Cartier Residence · Marketplace"
+    },
+    {
+      "path": "/crm",
+      "title": "AYPPA IMOB CRM"
+    },
+    {
+      "path": "/industrial",
+      "title": "AYPPA • Galpões e Salas Comerciais"
+    },
+    {
+      "path": "/industrial/:categoria",
+      "title": "AYPPA • Listagens Industriais por Categoria"
+    },
+    {
+      "path": "/app/imob",
+      "title": "AYPPA IMOB CRM"
+    },
+    {
+      "path": "/crm/lojas/:slug",
+      "title": "Loja da construtora"
+    },
+    {
+      "path": "/crm/lojas/:slug/:listingId/:tab",
+      "title": "Imóvel · Comercial / Produto"
+    },
+    {
+      "path": "/crm/dados",
+      "title": "AYPPA Data Hub · origem e atualização"
+    },
+    {
+      "path": "/crm/mercados",
+      "title": "IMOB CRM · Mercados globais oficiais"
+    },
+    {
+      "path": "/r/gandim/index.html",
+      "title": "GANDIN v2.3 · 5 empreendimentos"
+    },
+    {
+      "path": "/r/gandim/estoque.html",
+      "title": "GANDIN v2.3 · 5 empreendimentos"
+    },
+    {
+      "path": "/r/gandin/index.html",
+      "title": "GANDIN v2.3 · 5 empreendimentos"
+    },
+    {
+      "path": "/r/gandin/estoque.html",
+      "title": "GANDIN v2.3 · 5 empreendimentos"
+    },
+    {
+      "path": "/r/mgv/index.html",
+      "title": "MGV · Catálogo compartilhado Gandim"
+    },
+    {
+      "path": "/r/gandim/villa-de-siena-401/comercial.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandim/villa-de-siena-401/produto.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandim/dom-benedito-2602/comercial.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandim/dom-benedito-2602/produto.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandim/grand-place-801/comercial.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandim/grand-place-801/produto.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandin/villa-de-siena-401/comercial.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandin/villa-de-siena-401/produto.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandin/dom-benedito-2602/comercial.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandin/dom-benedito-2602/produto.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandin/grand-place-801/comercial.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandin/grand-place-801/produto.html",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/crm/lojas/gandin",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/crm/lojas/gandim/:listingId/:tab",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/crm/lojas/gandin/:listingId/:tab",
+      "title": "GANDIM · Vitrine v2.2"
+    },
+    {
+      "path": "/r/gandim",
+      "title": "GANDIN v2.3 · 5 empreendimentos"
+    },
+    {
+      "path": "/r/gandin",
+      "title": "GANDIN v2.3 · 5 empreendimentos"
+    },
+    {
+      "path": "/r/mgv",
+      "title": "MGV · Estrutura vinculada"
+    },
+    {
+      "path": "/r/gandim/villa-de-siena/comercial.html",
+      "title": "Gandin villa de siena · comercial"
+    },
+    {
+      "path": "/r/gandim/villa-de-siena/produto.html",
+      "title": "Gandin villa de siena · produto"
+    },
+    {
+      "path": "/r/gandim/dom-benedito/comercial.html",
+      "title": "Gandin dom benedito · comercial"
+    },
+    {
+      "path": "/r/gandim/dom-benedito/produto.html",
+      "title": "Gandin dom benedito · produto"
+    },
+    {
+      "path": "/r/gandim/villa-aurora/comercial.html",
+      "title": "Gandin villa aurora · comercial"
+    },
+    {
+      "path": "/r/gandim/villa-aurora/produto.html",
+      "title": "Gandin villa aurora · produto"
+    },
+    {
+      "path": "/r/gandim/villa-maiorca/comercial.html",
+      "title": "Gandin villa maiorca · comercial"
+    },
+    {
+      "path": "/r/gandim/villa-maiorca/produto.html",
+      "title": "Gandin villa maiorca · produto"
+    },
+    {
+      "path": "/r/gandim/villa-de-capri/comercial.html",
+      "title": "Gandin villa de capri · comercial"
+    },
+    {
+      "path": "/r/gandim/villa-de-capri/produto.html",
+      "title": "Gandin villa de capri · produto"
+    },
+    {
+      "path": "/r/gandin/villa-de-siena/comercial.html",
+      "title": "Gandin villa de siena · comercial"
+    },
+    {
+      "path": "/r/gandin/villa-de-siena/produto.html",
+      "title": "Gandin villa de siena · produto"
+    },
+    {
+      "path": "/r/gandin/dom-benedito/comercial.html",
+      "title": "Gandin dom benedito · comercial"
+    },
+    {
+      "path": "/r/gandin/dom-benedito/produto.html",
+      "title": "Gandin dom benedito · produto"
+    },
+    {
+      "path": "/r/gandin/villa-aurora/comercial.html",
+      "title": "Gandin villa aurora · comercial"
+    },
+    {
+      "path": "/r/gandin/villa-aurora/produto.html",
+      "title": "Gandin villa aurora · produto"
+    },
+    {
+      "path": "/r/gandin/villa-maiorca/comercial.html",
+      "title": "Gandin villa maiorca · comercial"
+    },
+    {
+      "path": "/r/gandin/villa-maiorca/produto.html",
+      "title": "Gandin villa maiorca · produto"
+    },
+    {
+      "path": "/r/gandin/villa-de-capri/comercial.html",
+      "title": "Gandin villa de capri · comercial"
+    },
+    {
+      "path": "/r/gandin/villa-de-capri/produto.html",
+      "title": "Gandin villa de capri · produto"
+    },
+    {
+      "path": "/estate/index.html",
+      "title": "AYPPA Estate"
+    },
+    {
+      "path": "/crm/construtoras",
+      "title": "Curadoria • Painel da construtora"
+    },
+    {
+      "path": "/crm/filtro",
+      "title": "IMOB CRM • Filtrar imóveis"
+    },
+    {
+      "path": "/crm/imoveis",
+      "title": "IMOB CRM • Imóveis filtrados"
+    },
+    {
+      "path": "/estate/mapa",
+      "title": "AYPPA • Mapa do Acervo Curado"
+    },
+    {
+      "path": "/r/gandim/mapa.html",
+      "title": "AYPPA • Mapa do Acervo Curado"
+    },
+    {
+      "path": "/r/gandin/mapa.html",
+      "title": "AYPPA • Mapa do Acervo Curado"
+    },
+    {
+      "path": "/crm/lojas/:slug/mapa",
+      "title": "AYPPA • Mapa do Acervo Curado"
+    },
+    {
+      "path": "/legal",
+      "title": "AYPPA • Informações institucionais"
+    },
+    {
+      "path": "/mapa-global",
+      "title": "AYPPA Estate • Mapa Global Interativo"
+    },
+    {
+      "path": "/construtoras",
+      "title": "Curadoria • Índice de construtoras • AYPPA"
+    },
+    {
+      "path": "/crm/construtoras/:slug",
+      "title": "Portfólio da construtora • Empreendimentos"
+    },
+    {
+      "path": "/crm/construtoras/:slug/empreendimentos/:buildingKey",
+      "title": "Empreendimento • Unidades"
+    },
+    {
+      "path": "/construtora/:slug/empreendimento/:buildingKey/unidade/:unitKey",
+      "title": "Ficha da unidade • AYPPA Estate"
+    },
+    {
+      "path": "/r/gandim/",
+      "title": "Loja da construtora • AYPPA Vitrine"
+    },
+    {
+      "path": "/r/gandin/",
+      "title": "Loja da construtora • AYPPA Vitrine"
+    },
+    {
+      "path": "/construtoras/index",
+      "title": "Curadoria • Índice de construtoras • AYPPA"
+    },
+    {
+      "path": "/r/gandim/experiencia/:experience",
+      "title": "GANDIM • Experiências • Globo, obra e Super-App"
+    },
+    {
+      "path": "/r/gandim/experiencia/primeiro-card",
+      "title": "Villa Maiorca • Subtela 4 • alias anterior"
+    },
+    {
+      "path": "/r/gandim/experiencia/villa-maiorca",
+      "title": "GANDIM • Villa Maiorca • Subtela 4 • Obra e Super-App"
+    },
+    {
+      "path": "/r/gandim/experiencia/villa-maiorca/super-app",
+      "title": "Villa Maiorca • Subtela4.2 • Super-App"
+    },
+    {
+      "path": "/nivel2/modalidades",
+      "title": "Villa Maiorca • modalidades"
+    },
+    {
+      "path": "/nivel2/home-equity",
+      "title": "Villa Maiorca • home-equity"
+    },
+    {
+      "path": "/nivel2/financiamento",
+      "title": "Villa Maiorca • financiamento"
+    },
+    {
+      "path": "/nivel2/permuta",
+      "title": "Villa Maiorca • permuta"
+    },
+    {
+      "path": "/nivel2/carta",
+      "title": "Villa Maiorca • carta"
+    },
+    {
+      "path": "/nivel2/entrada-parcelada",
+      "title": "Villa Maiorca • entrada-parcelada"
+    },
+    {
+      "path": "/nivel2/aluguel-garantido",
+      "title": "Villa Maiorca • aluguel-garantido"
+    },
+    {
+      "path": "/nivel2/avaliacao",
+      "title": "Villa Maiorca • avaliacao"
+    },
+    {
+      "path": "/nivel2/mapa/248",
+      "title": "Villa Maiorca • mapa/248"
+    },
+    {
+      "path": "/nivel2/suites",
+      "title": "Villa Maiorca • suites"
+    },
+    {
+      "path": "/nivel2/banheiros",
+      "title": "Villa Maiorca • banheiros"
+    },
+    {
+      "path": "/nivel2/frentemar",
+      "title": "Villa Maiorca • frentemar"
+    },
+    {
+      "path": "/nivel2/planta",
+      "title": "Villa Maiorca • planta"
+    },
+    {
+      "path": "/nivel2/timelapse",
+      "title": "Villa Maiorca • timelapse"
+    },
+    {
+      "path": "/nivel2/valorizacao",
+      "title": "Villa Maiorca • valorizacao"
+    },
+    {
+      "path": "/nivel2/carro",
+      "title": "Villa Maiorca • carro"
+    },
+    {
+      "path": "/nivel2/moveis",
+      "title": "Villa Maiorca • moveis"
+    },
+    {
+      "path": "/nivel2/energia",
+      "title": "Villa Maiorca • energia"
+    },
+    {
+      "path": "/nivel2/seguro",
+      "title": "Villa Maiorca • seguro"
+    },
+    {
+      "path": "/nivel2/globo",
+      "title": "GANDIM • Villa Maiorca • Globo mãe AYPPA 360"
+    },
+    {
+      "path": "/imovel/villa-maiorca",
+      "title": "GANDIM • Ficha do modelo Villa Maiorca • retorno ao globo"
+    },
+    {
+      "path": "/r/gandim/obra/villa-maiorca",
+      "title": "GANDIM • Tour360 da obra • Villa Maiorca"
+    },
+    {
+      "path": "/r/gandim/wealth-ai",
+      "title": "GANDIM • WEALTH AI • Beachfront Live"
+    },
+    {
+      "path": "/r/gandim/super-app/carro",
+      "title": "Carro premium"
+    },
+    {
+      "path": "/r/gandim/super-app/casa",
+      "title": "Casa mobiliada"
+    },
+    {
+      "path": "/r/gandim/super-app/solar",
+      "title": "Energia solar"
+    },
+    {
+      "path": "/r/gandim/super-app/iate-jato",
+      "title": "Iate e jato"
+    },
+    {
+      "path": "/r/gandim/super-app/entrada",
+      "title": "Super-App Connect"
+    },
+    {
+      "path": "/r/gandim/super-app",
+      "title": "Dual Banking"
+    },
+    {
+      "path": "/v/:slug",
+      "title": "Apresentação AYPPA × GANDIN"
+    }
+  ]
+}

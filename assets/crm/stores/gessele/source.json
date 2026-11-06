@@ -1,0 +1,35 @@
+{
+  "id": "gessele",
+  "name": "Gessele Empreendimentos",
+  "officialUrl": "https://gesseleempreendimentos.com.br/",
+  "identity": "Construtora com escritório em Itapema — SC; site oficial lista empreendimentos em Itapema.",
+  "logo": {
+    "path": "/assets/crm/stores/gessele/logo.webp",
+    "sourceUrl": "https://gesseleempreendimentos.com.br/assets/img/logo-dark.webp",
+    "type": "official-logo",
+    "classification": "logo"
+  },
+  "image": {
+    "path": "/assets/crm/stores/gessele/showcase.jpg",
+    "sourceUrl": "https://gesseleempreendimentos.com.br/uploads/imagens/lg-elizabeth-ii-royal-home-1-537.jpg",
+    "project": "Elizabeth II Royal Home",
+    "classification": "render",
+    "type": "project-image"
+  },
+  "pageUrl": "https://gesseleempreendimentos.com.br/empreendimento/elizabeth-ii-royal-home/en",
+  "assets": {
+    "logo.webp": {
+      "url": "https://gesseleempreendimentos.com.br/assets/img/logo-dark.webp",
+      "finalUrl": "https://gesseleempreendimentos.com.br/assets/img/logo-dark.webp",
+      "contentType": "image/webp",
+      "bytes": 3256
+    },
+    "showcase.jpg": {
+      "url": "https://gesseleempreendimentos.com.br/uploads/imagens/lg-elizabeth-ii-royal-home-1-537.jpg",
+      "finalUrl": "https://gesseleempreendimentos.com.br/uploads/imagens/lg-elizabeth-ii-royal-home-1-537.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 460267
+    }
+  },
+  "note": "Imagem de fachada diurna publicada na página oficial do empreendimento; classificação render (imagem arquitetônica/renderização), não fotografia documental."
+}

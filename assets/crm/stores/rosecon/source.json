@@ -1,0 +1,24 @@
+{
+  "id": "rosecon",
+  "name": "Rosecon Empreendimentos",
+  "officialUrl": "https://www.rosecon.com.br/",
+  "identity": "Site oficial confirma atuação no litoral catarinense, com endereços em Itapema/SC e Balneário Camboriú/SC.",
+  "logo": {
+    "path": "/assets/crm/stores/rosecon/logo.png",
+    "sourceUrl": "https://static.wixstatic.com/media/592722_d340bc7e868b4bab99500e3ca09792d3~mv2.png",
+    "type": "official-logo",
+    "contentType": "image/png"
+  },
+  "showcase": {
+    "path": "/assets/crm/stores/rosecon/showcase.png",
+    "sourceUrl": "https://static.wixstatic.com/media/592722_eaa453f2cbf74a888fbc79d97ac07e1b~mv2.png",
+    "imageProject": true,
+    "imageType": "photo",
+    "note": "Foto oficial publicada nos assets da página oficial; mostra empreendimento Rosecon à beira-mar. O nome específico do empreendimento não foi inferido.",
+    "contentType": "image/png"
+  },
+  "sources": [
+    "https://www.rosecon.com.br/",
+    "https://www.rosecon.com.br/itapema"
+  ]
+}

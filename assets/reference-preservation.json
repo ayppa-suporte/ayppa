@@ -1,0 +1,23 @@
+{
+  "originalSize": [
+    1920,
+    1280
+  ],
+  "editedSize": [
+    2304,
+    1536
+  ],
+  "output": "/home/ubuntu/ayppaportal/client/public/assets/portal-base.webp",
+  "outsideAuthorizedMask": "pixel-identical",
+  "encoding": "lossless WebP",
+  "feather": "inward-only",
+  "protectedCityRegions": "pixel-identical",
+  "preserved": [
+    "AYPPA logo",
+    "cards",
+    "city names",
+    "leader lines outside objects",
+    "clock bezel and indexes",
+    "leather outside authorized regions"
+  ]
+}

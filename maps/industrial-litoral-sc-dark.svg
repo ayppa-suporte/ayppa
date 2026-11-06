@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Litoral de Santa Catarina — mapa esquemático</title>
+  <desc id="desc">Representação escura e aproximada do litoral. Os pontos são centros municipais, não endereços de imóveis.</desc>
+  <defs>
+    <linearGradient id="land" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17365b"/>
+      <stop offset="1" stop-color="#112b49"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#07182e"/>
+      <stop offset="1" stop-color="#0b2340"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#sea)"/>
+  <g fill="none" stroke="#2a4b70" stroke-width="2" opacity=".45">
+    <path d="M740 0c-15 93-44 153-28 224 14 62 63 93 54 158-8 61-60 94-51 161 9 66 53 101 40 217"/>
+    <path d="M858 0c-21 98-61 163-42 241 16 65 55 104 45 166-11 73-68 115-54 187 9 48 33 91 22 166"/>
+    <path d="M968 0c-13 104-43 168-28 236 15 69 60 101 48 174-13 77-65 122-52 204 7 46 25 88 19 146"/>
+    <path d="M0 165c174 28 325 14 464 48 111 27 182 66 275 68"/>
+    <path d="M0 540c184-30 328-20 470 12 107 25 186 64 276 73"/>
+  </g>
+  <path d="M0 0h738c-5 64-21 119-20 167 1 55 42 90 44 139 2 43-25 70-28 111-4 52 35 83 31 134-5 52-43 85-39 140 3 30 15 47 20 69H0z" fill="url(#land)" stroke="#58799a" stroke-width="4"/>
+  <path d="M717 0c-5 64-21 119-20 167 1 55 42 90 44 139 2 43-25 70-28 111-4 52 35 83 31 134-5 52-43 85-39 140 3 30 15 47 20 69" fill="none" stroke="#9ab5cf" stroke-width="4" opacity=".94"/>
+  <g fill="none" stroke="#406184" stroke-width="2" opacity=".48">
+    <path d="M80 115h260M40 250h390M95 365h355M35 465h420M100 625h340"/>
+    <path d="M190 0v760M390 0v760M560 0v760"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#d7c38f" font-size="23" letter-spacing="1">
+    <text x="825" y="94" opacity=".55">OCEANO ATLÂNTICO</text>
+  </g>
+  <g filter="url(#glow)" font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="688" cy="258" r="12" fill="#d4af37" stroke="#f3dda0" stroke-width="4"/>
+    <text x="580" y="247" fill="#f0dfb4" font-size="21">Balneário Camboriú</text>
+    <circle cx="700" cy="400" r="12" fill="#d4af37" stroke="#f3dda0" stroke-width="4"/>
+    <text x="610" y="390" fill="#f0dfb4" font-size="21">Itapema</text>
+    <circle cx="720" cy="538" r="12" fill="#d4af37" stroke="#f3dda0" stroke-width="4"/>
+    <text x="630" y="528" fill="#f0dfb4" font-size="21">Porto Belo</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="16" letter-spacing="1.1">
+    <rect x="26" y="704" width="390" height="34" rx="9" fill="#061326" fill-opacity=".85" stroke="#d4af37" stroke-opacity=".45"/>
+    <text x="44" y="726" fill="#e8dcc6">CENTROS MUNICIPAIS APROXIMADOS · SC</text>
+  </g>
+</svg>

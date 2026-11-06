@@ -1,0 +1,18 @@
+{
+  "source": "/home/ubuntu/ayppaportal/client/public/assets/portal-base.webp",
+  "output": "/home/ubuntu/ayppaportal/client/public/assets/portal-base-moving-labels.webp",
+  "size": [
+    1920,
+    1280
+  ],
+  "encoding": "lossless WebP",
+  "outsideStaticLabelRegions": "pixel-identical",
+  "feather": "inward-only",
+  "preserved": [
+    "AYPPA logo",
+    "PORTAL GLOBAL subtitle",
+    "all three cards",
+    "watch face, indices, bezel and ring",
+    "leather outside label regions"
+  ]
+}

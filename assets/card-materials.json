@@ -1,0 +1,47 @@
+{
+  "pure-black": {
+    "crop": [
+      100,
+      249,
+      514,
+      509
+    ],
+    "size": [
+      414,
+      260
+    ],
+    "source": "cores.jpeg"
+  },
+  "navy-estate": {
+    "crop": [
+      593,
+      249,
+      1008,
+      509
+    ],
+    "size": [
+      415,
+      260
+    ],
+    "source": "cores.jpeg"
+  },
+  "warm-global": {
+    "crop": [
+      281,
+      637,
+      740,
+      907
+    ],
+    "size": [
+      459,
+      270
+    ],
+    "source": "cores.jpeg"
+  },
+  "base": {
+    "source": "portal-base-moving-labels.webp",
+    "output": "portal-base-live-cards.webp",
+    "unchanged_pixels": 1973754,
+    "alpha_only": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kada",
+  "name": "Kada Construtora",
+  "officialUrl": "https://www.kadaconstrutora.com.br/",
+  "logoPath": "/assets/crm/stores/kada/logo.svg",
+  "imagePath": "/assets/crm/stores/kada/showcase.webp",
+  "imageProject": "Park House",
+  "imageType": "render",
+  "sourceUrl": "https://centralcorretor.s3.sa-east-1.amazonaws.com/protected/us-east-1:c19b00f3-4d48-c991-6807-6f2d38e510f4/e6dc4de3-d03e-4f7d-812e-a3e6fd28fa74_xl.webp",
+  "note": "Identidade confirmada no site oficial: endereço em Morretes, Itapema/SC. Logo é SVG inline oficial sem scripts; imagem é o destaque oficial do Park House (fullsize WebP) servido pelo armazenamento público referenciado pelo site. Classificação visual: render (imagem de apresentação arquitetônica). Fonte consultada: https://www.kadaconstrutora.com.br/ e https://www.kadaconstrutora.com.br/empreendimentos.",
+  "displayAdjustment": "Normalização viewbox→viewBox para SVG standalone; geometria e cores preservadas.",
+  "displayLogoPath": "/assets/crm/stores/kada/logo-viewbox.svg"
+}

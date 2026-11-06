@@ -1,0 +1,11 @@
+{
+  "id": "coned-yangzhou",
+  "name": "Coned Empreendimentos Yangzhou",
+  "officialUrl": "https://conedconstrutora.com.br/project/yangzhou/",
+  "logoPath": "/assets/crm/stores/coned-yangzhou/logo.jpg",
+  "imagePath": "",
+  "imageProject": "Yangzhou",
+  "imageType": "unknown",
+  "sourceUrl": "https://conedconstrutora.com.br/project/yangzhou/",
+  "note": "Identidade confirmada no site oficial: empreendimento Yangzhou em Meia Praia, Itapema/SC (2ª Avenida, esquina com rua 300/302; registro de imóveis de Itapema/SC). O logotipo CONED foi obtido do índice de imagem associado à página oficial da construtora e validado como image/jpeg (HTTP 200), salvo como logo.jpg. A página oficial lista imagens do projeto, incluindo 008-copiar-1024x563.jpg, mas o servidor retornou HTTP 403 para as URLs públicas full-size testadas; portanto showcase não foi salvo e imagePath permanece vazio. Não há afirmação de disponibilidade, aprovação ou contagem."
+}

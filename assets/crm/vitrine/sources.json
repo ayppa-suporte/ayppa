@@ -1,0 +1,30 @@
+{
+  "source": "Referência visual fornecida pelo usuário: WhatsAppImage2026-10-09at22.23.48.jpeg",
+  "use": "Apresentação institucional de categorias, não fotos atribuídas a imóveis cadastrados",
+  "regions": {
+    "hero": [
+      0.13,
+      0.14,
+      0.88,
+      0.31
+    ],
+    "construtoras": [
+      0.356,
+      0.578,
+      0.535,
+      0.79
+    ],
+    "industrial": [
+      0.555,
+      0.578,
+      0.729,
+      0.79
+    ],
+    "terrenos": [
+      0.75,
+      0.578,
+      0.925,
+      0.79
+    ]
+  }
+}

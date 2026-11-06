@@ -1,0 +1,15 @@
+{
+  "id": "santana",
+  "name": "Santana Construtora e Incorporadora",
+  "officialUrl": "https://santanaconstrutora.com.br/",
+  "logoPath": "/assets/crm/stores/santana/logo.svg",
+  "imagePath": "/assets/crm/stores/santana/showcase.webp",
+  "imageProject": "Cologny Residence",
+  "imageType": "render",
+  "sourceUrl": "https://centralcorretor.s3.sa-east-1.amazonaws.com/protected/us-east-1%3Abdea757d-69f8-4f61-835b-367cfaf38196/2390d421-8608-4af8-afb5-e6220561e197_xl.webp",
+  "note": "Identidade confirmada no site oficial: sede em Av. Nereu Ramos, 3364, Meia Praia, Itapema/SC. Logo SVG inline oficial, sanitizada sem scripts; imagem vitrine Cologny Residence obtida do CDN referenciado pelo site oficial e validada como image/webp HTTP 200.",
+  "displayAdjustment": "Normalização viewbox→viewBox para SVG standalone; geometria e cores preservadas.",
+  "displayLogoPath": "/assets/crm/stores/santana/logo-viewbox.svg",
+  "correctedLogoPath": "/assets/crm/stores/santana/logo-institutional.png",
+  "correctedLogoSource": "https://content.centralcorretor.com.br/protected/us-east-1:bdea757d-69f8-4f61-835b-367cfaf38196/9326b706-99cb-476d-8d8c-6972be00c059.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "jlc",
+  "name": "JLC Empreendimentos",
+  "officialUrl": "https://jlc.com.br/",
+  "logoPath": "/assets/crm/stores/jlc/logo.webp",
+  "imagePath": "/assets/crm/stores/jlc/showcase.webp",
+  "imageProject": "Highline Tower",
+  "imageType": "render",
+  "sourceUrl": "https://centralcorretor.s3.sa-east-1.amazonaws.com/protected/us-east-1:c19b00f3-4dc4-cf04-88b3-f9c7b70b717e/8e1b0f2a-db1b-41bb-bdab-be5cad561f07_xl.webp",
+  "note": "Identidade confirmada no site oficial: construtora informa sede em Itapema/SC (Meia Praia), endereço Av. Nereu Ramos, 3032. Logo e render do Highline Tower foram obtidos publicamente no HTML oficial da JLC; HTTP 200 e content-type de imagem validados. Imagem é render arquitetônico (não foto). Fonte da página: https://jlc.com.br/; empreendimento listado em https://jlc.com.br/empreendimentos."
+}

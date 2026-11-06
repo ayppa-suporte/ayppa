@@ -1,0 +1,41 @@
+{
+  "description": "Fotos individuais das referências visuais existentes. Uso demonstrativo, sem alegação de fotografia verificada das mansões internacionais. Nenhuma ampliação artificial de resolução.",
+  "assets": {
+    "azure": {
+      "source": "client/public/assets/global-map/hub/collections-hero.webp",
+      "box": [
+        0,
+        0,
+        177,
+        126
+      ],
+      "size": [
+        177,
+        126
+      ],
+      "upscaled": false
+    },
+    "oceanfront": {
+      "source": "client/public/assets/global-map/hub/collections-hero.webp",
+      "box": [
+        179,
+        0,
+        410,
+        126
+      ],
+      "size": [
+        231,
+        126
+      ],
+      "upscaled": false
+    },
+    "palm": {
+      "source": "client/public/assets/estate-global/hero.webp",
+      "size": [
+        835,
+        363
+      ],
+      "upscaled": false
+    }
+  }
+}

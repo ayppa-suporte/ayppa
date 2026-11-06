@@ -1,0 +1,11 @@
+{
+  "source": "/assets/global-map/earth-day.jpg",
+  "sourceSha256": "e77a450ff5157370e28dfcfd1ed1044a83949cc29ab305042e2dbd146fbe138c",
+  "derivedAsset": "/assets/global-map/earth-estate-night.webp",
+  "size": [
+    2048,
+    1024
+  ],
+  "transformation": "Recoloração determinística RGB: oceano #020617, continentes #1a2a1a com relevo de baixa amplitude. Sem recorte, geração de geografia ou luzes urbanas.",
+  "originalPreserved": true
+}

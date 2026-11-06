@@ -1,0 +1,15 @@
+{
+  "id": "dallo",
+  "name": "Dallo Empreendimentos",
+  "officialUrl": "https://www.dallo.com.br/",
+  "logoPath": "/assets/crm/stores/dallo/logo.png",
+  "imagePath": "/assets/crm/stores/dallo/showcase.png",
+  "imageProject": "Maison Ladurée",
+  "imageType": "render",
+  "sourceUrl": "https://admin.dallo.com.br/uploads/enterprise/52/69fb55f05250c1.31247892.png",
+  "apiSourceUrl": "https://admin.dallo.com.br/api/page-enterprise/maison-laduree",
+  "logoSourceUrl": "https://admin.dallo.com.br/uploads/enterprise/52/68756464b8b9b6.89498975.png",
+  "note": "Fonte oficial da Construtora Dallo; identidade confirmada em Itapema/SC (Av. Nereu Ramos, 4077, Meia Praia). Showcase é o imageFeature oficial do Maison Ladurée, empreendimento no Centro de Itapema/SC; classificado como render arquitetônico. Ativos públicos validados por HTTP 200 e content-type image/png.",
+  "correctedLogoPath": "/assets/crm/stores/dallo/logo-institutional.png",
+  "correctedLogoSource": "https://www.dallo.com.br/opengraph.png"
+}

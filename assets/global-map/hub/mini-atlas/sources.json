@@ -1,0 +1,86 @@
+{
+  "provider": "Mapbox",
+  "sourceDocs": [
+    "https://docs.mapbox.com/data/tilesets/reference/mapbox-satellite/",
+    "https://docs.mapbox.com/help/dive-deeper/attribution/"
+  ],
+  "captured": "2026-10-28",
+  "staticReference": true,
+  "live": false,
+  "heatmap": {
+    "source": "COMPARABLE_CATALOG · DEMO",
+    "count": 21,
+    "meaning": "Concentração de imóveis do catálogo demonstrativo, não temperatura ou buscas ao vivo",
+    "scale": {
+      "blue": "2 imóveis",
+      "gold": "4 imóveis",
+      "coral": "5–6 imóveis"
+    },
+    "locations": [
+      {
+        "id": "monaco",
+        "lng": 7.42,
+        "lat": 43.73,
+        "count": 2
+      },
+      {
+        "id": "saopaulo",
+        "lng": -46.63,
+        "lat": -23.55,
+        "count": 4
+      },
+      {
+        "id": "balneario",
+        "lng": -48.6354,
+        "lat": -26.9907,
+        "count": 4
+      },
+      {
+        "id": "dubai",
+        "lng": 55.27,
+        "lat": 25.2,
+        "count": 5
+      },
+      {
+        "id": "itapema",
+        "lng": -48.6126,
+        "lat": -27.0922,
+        "count": 6
+      }
+    ]
+  },
+  "images": {
+    "asia": {
+      "src": "/assets/global-map/hub/mini-atlas/asia-3e8a3e3943.webp",
+      "width": 1024,
+      "height": 288,
+      "sourceUrl": "https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/55.27,25.2,2.2/512x144@2x",
+      "bytes": 67688,
+      "attribution": "Créditos Mapbox/Maxar/OpenStreetMap preservados no arquivo; não recortar."
+    },
+    "europe": {
+      "src": "/assets/global-map/hub/mini-atlas/europe-3e0eaee915.webp",
+      "width": 1024,
+      "height": 288,
+      "sourceUrl": "https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/14,49,1.85/512x144@2x",
+      "bytes": 56880,
+      "attribution": "Créditos Mapbox/Maxar/OpenStreetMap preservados no arquivo; não recortar."
+    },
+    "americas": {
+      "src": "/assets/global-map/hub/mini-atlas/americas-473200c315.webp",
+      "width": 1024,
+      "height": 288,
+      "sourceUrl": "https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/-75,15,0.5/512x144@2x",
+      "bytes": 41624,
+      "attribution": "Créditos Mapbox/Maxar/OpenStreetMap preservados no arquivo; não recortar."
+    },
+    "heatmap": {
+      "src": "/assets/global-map/hub/mini-atlas/heatmap-822da8e16c.webp",
+      "width": 1024,
+      "height": 416,
+      "sourceUrl": "https://api.mapbox.com/styles/v1/mapbox/dark-v11/static/geojson(%7B%22features%22%3A%5B%7B%22geometry%22%3A%7B%22coordinates%22%3A%5B7.42%2C43.73%5D%2C%22type%22%3A%22Point%22%7D%2C%22properties%22%3A%7B%22marker-color%22%3A%227cafce%22%2C%22marker-size%22%3A%22large%22%2C%22marker-symbol%22%3A%22circle%22%7D%2C%22type%22%3A%22Feature%22%7D%2C%7B%22geometry%22%3A%7B%22coordinates%22%3A%5B-46.63%2C-23.55%5D%2C%22type%22%3A%22Point%22%7D%2C%22properties%22%3A%7B%22marker-color%22%3A%22c9a86a%22%2C%22marker-size%22%3A%22large%22%2C%22marker-symbol%22%3A%22circle%22%7D%2C%22type%22%3A%22Feature%22%7D%2C%7B%22geometry%22%3A%7B%22coordinates%22%3A%5B-48.6354%2C-26.9907%5D%2C%22type%22%3A%22Point%22%7D%2C%22properties%22%3A%7B%22marker-color%22%3A%22c9a86a%22%2C%22marker-size%22%3A%22large%22%2C%22marker-symbol%22%3A%22circle%22%7D%2C%22type%22%3A%22Feature%22%7D%2C%7B%22geometry%22%3A%7B%22coordinates%22%3A%5B55.27%2C25.2%5D%2C%22type%22%3A%22Point%22%7D%2C%22properties%22%3A%7B%22marker-color%22%3A%22ed875d%22%2C%22marker-size%22%3A%22large%22%2C%22marker-symbol%22%3A%22circle%22%7D%2C%22type%22%3A%22Feature%22%7D%2C%7B%22geometry%22%3A%7B%22coordinates%22%3A%5B-48.6126%2C-27.0922%5D%2C%22type%22%3A%22Point%22%7D%2C%22properties%22%3A%7B%22marker-color%22%3A%22ed875d%22%2C%22marker-size%22%3A%22large%22%2C%22marker-symbol%22%3A%22circle%22%7D%2C%22type%22%3A%22Feature%22%7D%5D%2C%22type%22%3A%22FeatureCollection%22%7D)/-7,16,0/512x208@2x",
+      "bytes": 13570,
+      "attribution": "Créditos Mapbox/Maxar/OpenStreetMap preservados no arquivo; não recortar."
+    }
+  }
+}

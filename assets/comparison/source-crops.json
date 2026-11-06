@@ -1,0 +1,37 @@
+{
+  "source": "WhatsAppImage2026-10-07at20.08.28.jpeg",
+  "source_size": [
+    1599,
+    1066
+  ],
+  "upscaled": false,
+  "generated": false,
+  "assets": {
+    "itapema": {
+      "path": "/assets/comparison/itapema.webp",
+      "source_box": [
+        87,
+        266,
+        698,
+        555
+      ],
+      "size": [
+        611,
+        289
+      ]
+    },
+    "monaco": {
+      "path": "/assets/comparison/monaco.webp",
+      "source_box": [
+        902,
+        266,
+        1512,
+        555
+      ],
+      "size": [
+        610,
+        289
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "received": "2026-10-08",
+  "dimensions": [
+    1600,
+    800
+  ],
+  "source": "user-upload",
+  "verified_capture": false,
+  "projection_claim": "User-described equirectangular; 2:1 checked, capture/projection continuity not established",
+  "files": {
+    "gourmet": "WhatsAppImage2026-10-08at15.56.15(1).jpeg",
+    "pool": "WhatsAppImage2026-10-08at15.56.15.jpeg",
+    "living": "WhatsAppImage2026-10-08at15.54.07(1).jpeg",
+    "suite": "WhatsAppImage2026-10-08at15.54.07.jpeg"
+  },
+  "missing": [],
+  "generated_files_status": "Earlier requested AI images are not used; supplied JPGs take precedence"
+}
