@@ -41,12 +41,72 @@
       "title": "AYPPA 360° — Broker OS Network Map"
     },
     {
+      "path": "/360/demo/live-studio",
+      "title": "AYPPA 360° — Broker Live Studio · demonstração local"
+    },
+    {
+      "path": "/360/demo/video-call",
+      "title": "AYPPA 360° — Broker Video Call · demonstração local"
+    },
+    {
+      "path": "/360/demo/deal-room",
+      "title": "AYPPA 360° — Deal Room · demonstração local"
+    },
+    {
       "path": "/marketplace/villa-oceana",
       "title": "Marketplace CNA Cartier Residence — alias — página de fechamento"
     },
     {
       "path": "/marketplace/cna-cartier-residence",
       "title": "CNA Cartier Residence · Marketplace"
+    },
+    {
+      "path": "/360/mini/broker-os/ranking",
+      "title": "AYPPA 360° · broker-os · ranking · MOCK"
+    },
+    {
+      "path": "/360/mini/broker-os/funnel",
+      "title": "AYPPA 360° · broker-os · funnel · MOCK"
+    },
+    {
+      "path": "/360/mini/broker-os/network",
+      "title": "AYPPA 360° · broker-os · network · MOCK"
+    },
+    {
+      "path": "/360/mini/broker-os/orders",
+      "title": "AYPPA 360° · broker-os · orders · MOCK"
+    },
+    {
+      "path": "/360/mini/comparison/itapema-view",
+      "title": "AYPPA 360° · comparison · itapema-view · MOCK"
+    },
+    {
+      "path": "/360/mini/comparison/monaco-view",
+      "title": "AYPPA 360° · comparison · monaco-view · MOCK"
+    },
+    {
+      "path": "/360/mini/comparison/valuation",
+      "title": "AYPPA 360° · comparison · valuation · MOCK"
+    },
+    {
+      "path": "/360/mini/comparison/yield-liquidity",
+      "title": "AYPPA 360° · comparison · yield-liquidity · MOCK"
+    },
+    {
+      "path": "/360/mini/estate-global/gourmet",
+      "title": "AYPPA 360° · estate-global · gourmet · MOCK"
+    },
+    {
+      "path": "/360/mini/estate-global/living",
+      "title": "AYPPA 360° · estate-global · living · MOCK"
+    },
+    {
+      "path": "/360/mini/estate-global/suite",
+      "title": "AYPPA 360° · estate-global · suite · MOCK"
+    },
+    {
+      "path": "/360/mini/estate-global/spa",
+      "title": "AYPPA 360° · estate-global · spa · MOCK"
     },
     {
       "path": "/crm",
