@@ -1,0 +1,126 @@
+{
+  "fonte": "OpenStreetMap (OSM), com roteamento OSRM/FOSSGIS",
+  "source": "OpenStreetMap contributors; OSRM/FOSSGIS",
+  "license": "ODbL 1.0",
+  "attribution": "© OpenStreetMap contributors; routing by OSRM/FOSSGIS",
+  "routingAbout": "https://routing.openstreetmap.de/about.html",
+  "retrievedOn": "2026-11-09",
+  "originApproximate": true,
+  "origin": {
+    "longitude": -48.588913,
+    "latitude": -27.14185
+  },
+  "places": [
+    {
+      "id": "school-olinda",
+      "category": "schools",
+      "name": "Escola Olinda Peixoto",
+      "address": "Rua São José, 157",
+      "latitude": -27.1513156,
+      "longitude": -48.5909201,
+      "osmUrl": "https://www.openstreetmap.org/way/1039983095",
+      "walking": {
+        "distanceMeters": 1505.3,
+        "durationSeconds": 1203.9,
+        "coordinates": [
+          [-48.588986, -27.141772],
+          [-48.591509, -27.143522],
+          [-48.58739, -27.149549],
+          [-48.590335, -27.151447],
+          [-48.590607, -27.151114]
+        ]
+      },
+      "retrievedOn": "2026-11-09"
+    },
+    {
+      "id": "market-myata",
+      "category": "markets",
+      "name": "Supermercado Myatã",
+      "address": "Avenida Hironildo Conceição dos Santos, 181",
+      "latitude": -27.14728,
+      "longitude": -48.5884927,
+      "osmUrl": "https://www.openstreetmap.org/node/4069351518",
+      "walking": {
+        "distanceMeters": 845,
+        "durationSeconds": 675.8,
+        "coordinates": [
+          [-48.588986, -27.141772],
+          [-48.591509, -27.143522],
+          [-48.588965, -27.147291],
+          [-48.588615, -27.147102]
+        ]
+      },
+      "driving": {
+        "distanceMeters": 845,
+        "durationSeconds": 112.6,
+        "coordinates": [
+          [-48.588986, -27.141772],
+          [-48.591509, -27.143522],
+          [-48.588965, -27.147291],
+          [-48.588615, -27.147102]
+        ]
+      },
+      "retrievedOn": "2026-11-09"
+    },
+    {
+      "id": "restaurant-oliva",
+      "category": "restaurants",
+      "name": "Forneria Oliva Pier",
+      "address": "Orla Meia Praia, 7111",
+      "latitude": -27.1434152,
+      "longitude": -48.5849552,
+      "osmUrl": "https://www.openstreetmap.org/way/1456237769",
+      "walking": {
+        "distanceMeters": 581.6,
+        "durationSeconds": 465.5,
+        "coordinates": [
+          [-48.588986, -27.141772],
+          [-48.588587, -27.141476],
+          [-48.587895, -27.142172],
+          [-48.586988, -27.143001],
+          [-48.586387, -27.143688],
+          [-48.586179, -27.144068],
+          [-48.585999, -27.144141],
+          [-48.585628, -27.144027],
+          [-48.585531, -27.143867],
+          [-48.584947, -27.143424]
+        ]
+      },
+      "retrievedOn": "2026-11-09"
+    },
+    {
+      "id": "health-trata",
+      "category": "health",
+      "name": "Clínica de Fisioterapia Instituto Trata e ITC Vertebral",
+      "address": "Rua 308 A com Rua 314, sala 1",
+      "latitude": -27.1410411,
+      "longitude": -48.5947637,
+      "osmUrl": "https://www.openstreetmap.org/node/12593626272",
+      "walking": {
+        "distanceMeters": 898.5,
+        "durationSeconds": 719.1,
+        "coordinates": [
+          [-48.588986, -27.141772],
+          [-48.588587, -27.141476],
+          [-48.58934, -27.140734],
+          [-48.589855, -27.14036],
+          [-48.591301, -27.138795],
+          [-48.594752, -27.141178],
+          [-48.594829, -27.141083]
+        ]
+      },
+      "driving": {
+        "distanceMeters": 875.8,
+        "durationSeconds": 124.4,
+        "coordinates": [
+          [-48.588986, -27.141772],
+          [-48.591509, -27.143522],
+          [-48.593622, -27.140397],
+          [-48.594752, -27.141178],
+          [-48.594829, -27.141083]
+        ]
+      },
+      "retrievedOn": "2026-11-09"
+    }
+  ]
+}
