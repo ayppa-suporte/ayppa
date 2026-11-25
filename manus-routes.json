@@ -321,6 +321,10 @@
       "title": "Curadoria • Painel da construtora"
     },
     {
+      "path": "/crm/curadoria-privada/",
+      "title": "AYPPA • Curadoria privada"
+    },
+    {
       "path": "/crm/filtro",
       "title": "IMOB CRM • Filtrar imóveis"
     },
